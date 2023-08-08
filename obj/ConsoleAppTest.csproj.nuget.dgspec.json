@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\juang\\source\\repos\\ConsoleAppTest\\ConsoleAppTest.csproj": {}
+    "C:\\Users\\juang\\source\\repos\\testProyecto\\ConsoleAppTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\juang\\source\\repos\\ConsoleAppTest\\ConsoleAppTest.csproj": {
+    "C:\\Users\\juang\\source\\repos\\testProyecto\\ConsoleAppTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\juang\\source\\repos\\ConsoleAppTest\\ConsoleAppTest.csproj",
+        "projectUniqueName": "C:\\Users\\juang\\source\\repos\\testProyecto\\ConsoleAppTest.csproj",
         "projectName": "ConsoleAppTest",
-        "projectPath": "C:\\Users\\juang\\source\\repos\\ConsoleAppTest\\ConsoleAppTest.csproj",
+        "projectPath": "C:\\Users\\juang\\source\\repos\\testProyecto\\ConsoleAppTest.csproj",
         "packagesPath": "C:\\Users\\juang\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\juang\\source\\repos\\ConsoleAppTest\\obj\\",
+        "outputPath": "C:\\Users\\juang\\source\\repos\\testProyecto\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\juang\\AppData\\Roaming\\NuGet\\NuGet.Config",
